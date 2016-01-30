@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-appinsights",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Application Insights Cordova plugin.",
   "cordova": {
     "id": "cordova-plugin-appinsights",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MSOpenTech/cordova-plugin-appinsights.git"
+    "url": "git+https://github.com/ridomin/cordova-plugin-appinsights.git"
   },
   "keywords": [
     "microsoft",
@@ -27,7 +27,7 @@
   "author": "MSOpenTech",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/MSOpenTech/cordova-plugin-appinsights/issues"
+    "url": "https://github.com/ridomin/cordova-plugin-appinsights/issues"
   },
-  "homepage": "https://github.com/MSOpenTech/cordova-plugin-appinsights#readme"
+  "homepage": "https://github.com/ridomin/cordova-plugin-appinsights#readme"
 }
